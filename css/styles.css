@@ -1,0 +1,37 @@
+.navbar {
+    position: fixed;
+    background-color: #EEE;
+    opacity: .8;
+    width:100%;
+    height:5%;
+    top:0;
+    left:0;
+}
+
+.nav {
+    position: fixed;
+    top:0;
+    left:0;
+}
+
+.btn {
+    padding: 14px 30px;
+    opacity: 1;
+    margin: 0px 25px;
+    position: inline-block;
+    color: black;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    top: 0;
+}
+
+.jumbotron {
+    background-color: transparent;
+    text-align: center;
+    padding: 15% 0;
+    margin: 0 0 50px 0;
+    color: rgba(255,0,0,1);
+    background-size: cover;
+    background-image: url('https://images7.alphacoders.com/484/484412.jpg')
+}
