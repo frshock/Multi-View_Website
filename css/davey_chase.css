@@ -70,20 +70,20 @@ p {
 }
 
 .btn-social-icon {
-    padding: 15px 25px 14px 25px;
+    padding: 9px 25px 9px 25px;
     color: #903749;
     margin: 0px;
     border-radius: 49px;
     top: 0;
 }
 
+.navbar-social .fa {
+    font-size: 30px;
+}
+
 .btn-danger {
     background-color: transparent;
     color: #903749;
-}
-
-h1 {
-    font-size: 100px;
 }
 
 .jumbotron {
