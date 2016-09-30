@@ -15,6 +15,7 @@ $(".btn-social-icon").hover(function(){
 $(".btn-danger").hover(function(){
     $(this).css({"background-color":"#2B2E4A","color":"#FFFFFF"});
 }
+
 ,function(){
     $(this).css({"background-color":"","color":""});
 });
